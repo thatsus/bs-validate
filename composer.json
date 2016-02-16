@@ -1,0 +1,9 @@
+{
+    "name": "thatsus/bs-validate",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/thatsus/bs-validate.git"
+        }
+    ]
+}
